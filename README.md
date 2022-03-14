@@ -2,7 +2,7 @@
 
 ## Data set : https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
-### Martin Berthier, Quentin Bertrand, Janethe Ferhoune, Fanoa Razafimbelo, Yohann Blackburn
+### Martin BERTHIER, Quentin BERTRAND, Janethe FERHOUNE, Fanoa RAZAFIMBELO, Yohann BLACKBURN
     Référent : Kirian Guiller
     Évaluateur : Kirian Guiller, Kim Gerdes
    
